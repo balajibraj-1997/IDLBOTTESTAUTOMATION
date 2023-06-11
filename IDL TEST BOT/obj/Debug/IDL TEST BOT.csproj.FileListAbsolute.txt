@@ -1,0 +1,22 @@
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\obj\Debug\IDL TEST BOT.csproj.AssemblyReference.cache
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\obj\Debug\IDL TEST BOT.csproj.CoreCompileInputs.cache
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\nunit.engine.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\nunit.engine.api.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\nunit.engine.core.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\IDL TEST BOT.dll.config
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\IDL TEST BOT.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\IDL TEST BOT.pdb
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\nunit.framework.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\WebDriver.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\WebDriver.Support.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\bin\Debug\nunit.framework.xml
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\obj\Debug\IDL TEST BOT.csproj.CopyComplete
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\obj\Debug\IDL TEST BOT.dll
+C:\Users\Balaji\source\repos\IDL TEST BOT\IDL TEST BOT\obj\Debug\IDL TEST BOT.pdb
